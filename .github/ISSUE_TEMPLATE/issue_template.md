@@ -1,7 +1,7 @@
 ---
 name: Issue_Template
 about: I will provide you the design, can you code?
-title: DESIGN
+title: DESIGN**
 labels: ''
 assignees: ''
 
